@@ -17,3 +17,11 @@ data_of_file = file_to_read.read()
 file_to_read.close()
 
 print(data_of_file)
+
+#Using the expression WITH
+data_using_expression_with = None
+with open("utils_file/scientist.txt", "r") as file:
+    data_using_expression_with = file.read()
+
+print(len(data_using_expression_with))
+print(data_using_expression_with)
