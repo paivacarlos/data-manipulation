@@ -1,0 +1,4 @@
+Error: Something to file from Log_file_mixin
+Success: Great! from Log_file_mixin
+Error: Something to file from Log_file_mixin
+Success: Great! from Log_file_mixin
